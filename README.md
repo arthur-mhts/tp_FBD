@@ -1,4 +1,4 @@
-# TP Spark - Framework Big Data
+# TP Kafka - Framework Big Data
 ## Change directory
 $ cd kafka_2.13-3.9.0
 
